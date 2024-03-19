@@ -65,8 +65,9 @@ Reactstrap
 ### 리액트 시각화 & 차트 라이브러리
 기본: React-Hook-Form(주로 유효성검사 zod와 함께사용)
 
-### 파일 구조
-???  
+### 폴더 구조
+기본:컨테이너 컴포넌트 구조(container-presenter)  
+그외:아토믹, FSD  
 
 ### 인증
 Lucia  
